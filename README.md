@@ -31,7 +31,7 @@ Click the link to the text file with the translations
 | pl | [Polish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/pl/LC_MESSAGES/django.po) | ✔ 100.00% |
 | pt | [Portuguese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/pt/LC_MESSAGES/django.po) | ➖ 99.29% |
 | ro | [Romanian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ro/LC_MESSAGES/django.po) | ➖ 97.16% |
-| ru | [Russian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ru/LC_MESSAGES/django.po) | ➖ 56.74% |
+| ru | [Russian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ru/LC_MESSAGES/django.po) | ✔ 100.00% |
 | sr | [Serbian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sr/LC_MESSAGES/django.po) | ✔ 100.00% |
 | sv | [Swedish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sv/LC_MESSAGES/django.po) | ➖ 81.56% |
 | th | [Thai](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/th/LC_MESSAGES/django.po) | ❌ 0.00% |
@@ -76,3 +76,4 @@ Contributors will be listed here and on the website if you wish. A link to socia
   * German - [fvcxy](https://www.reddit.com/user/fvcxy)
   * Romanian - [AngelJimi](https://www.youtube.com/channel/UC6Qfp0zLBK03eYPnXRL2Gug)
   * Dutch - Stefan Schrauwen
+  * Russian - [sadloveii](https://www.reddit.com/user/sadloveii)
