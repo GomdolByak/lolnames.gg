@@ -9,91 +9,91 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Summoner name..."
-msgstr "Sihirdar Ismi"
+msgstr "Sihirdar ismi..."
 
 msgid "Invalid name"
-msgstr ""
+msgstr "Geçersiz isim"
 
 msgid "Invalid characters: "
-msgstr ""
+msgstr "Geçersiz karakterler:"
 
 msgid "Maximum 16 characters"
-msgstr ""
+msgstr "En fazla 16 karakter"
 
 msgid "Must be two or more characters"
-msgstr ""
+msgstr "en az iki karakter olmak zorunda"
 
 msgid "Names can't contain 'riot'"
-msgstr ""
+msgstr "Isim 'riot' karakterini içeremez"
 
 msgid "This is a problem with Riot's servers"
-msgstr ""
+msgstr "Riot sunucularında bir hata var"
 
 msgid "New Account"
-msgstr "Hesap ID'den LoL ismi"
+msgstr "Yeni hesap"
 
 msgid "Name Change"
-msgstr "isim değiştirmeyi kontrol et"
+msgstr "isim değişikliği"
 
 msgid "Generator"
 msgstr "Oluşturucu"
 
 msgid "None available for %(name)s, out of %(num_variants)s variants."
-msgstr ""
+msgstr "%(name) kullanılabilir değil, %(num_variants) diğer seçenekleri"
 
 msgid "Summoner name not in use"
-msgstr "Sihirdar Ismi"
+msgstr "Bu sihirdar ismi kullanımda değil"
 
 msgid "Account ID Lookup"
-msgstr "Hesap ID Bulucu"
+msgstr "Hesap ID arama"
 
 msgid "Account ID"
-msgstr "Hesap ID Bulucu"
+msgstr "Hesap ID"
 
 msgid "Lookup name by Account ID"
 msgstr "Hesap ID'den LoL ismi"
 
 msgid "Invalid Account ID"
-msgstr "Hesap ID ara"
+msgstr "Geçersiz hesap ID"
 
 msgid "Summoner Level High Scores"
-msgstr "yüksek sihirdar level skorları"
+msgstr "Sihirdar seviyesi sıralaması"
 
 msgid "All Upcoming Names"
-msgstr ""
+msgstr "Bütün geçerli isimler"
 
 msgid "Recently Available Names"
-msgstr ""
+msgstr "Şuan boştaki isimler"
 
 msgid "Two Letter Names"
-msgstr "LoL İsimleri"
+msgstr "Iki karfli isimler"
 
 msgid "Three Letter Names"
-msgstr ""
+msgstr "Üç harfli isimler"
 
 msgid "Four Letter Names"
-msgstr "LoL İsimleri"
+msgstr "Dört harfli isimler"
 
 msgid "All Available Names"
-msgstr ""
+msgstr "Bütün boştaki isimler"
 
 msgid "Lists"
 msgstr "Listeler"
 
 msgid "No active game for %(name)s"
-msgstr ""
+msgstr "%(name) isimli oyuncu şuan aktif bir eşleşmede değil"
 
 msgid "No summoner with name \"%(name)s\" on %(region)s."
-msgstr ""
+msgstr "%(region) sunucusunda \"%(name)s\" isimli oyuncu bulunmamakta"
 
 msgid "LoL Names"
 msgstr "LoL İsimleri"
 
 msgid "Checker"
-msgstr " Kontrol Edici"
+msgstr "Kontrol Edici"
 
 msgid "Highscores"
-msgstr "Yüksek Skorlar"
+msgstr "Yüksek skorlar"
 
 msgid "Tools"
 msgstr "Araçlar"
@@ -105,19 +105,19 @@ msgid "Track Name Changes"
 msgstr "isim değiştirmeyi kontrol et"
 
 msgid "Lookup Account ID"
-msgstr "LoL Hesap ID Bulucu"
+msgstr "LoL hesap ID bulucu"
 
 msgid "Search by Account ID"
-msgstr "Hesap ID ara"
+msgstr "Hesap ID'den ara"
 
 msgid "Statistics"
-msgstr ""
+msgstr "Istatistikler"
 
 msgid "Summoner Levels"
-msgstr "yüksek sihirdar level skorları"
+msgstr "Sihirdar seviyeleri"
 
 msgid "Summoner Icons"
-msgstr "Sihirdar"
+msgstr "Sihirdar sembolleri"
 
 msgid "FAQ"
 msgstr "SSS"
@@ -126,7 +126,7 @@ msgid "Languages"
 msgstr "Diller"
 
 msgid "LoL,League of Legends,Names,Generator,Checker,lol inactive,lol name checker,league name checker,league of legends name checker,summoner name availability,league name availability,Search,LoL Summoner name,Summoner"
-msgstr "LoL,League of Legends,Isimler,Dönüştürücü,Kontrol Edici,LoL İnaktif , Lol isim kontrol edici , lig isim kontrol edici , league of legends isim kontrol edici , sihirdar ismi uygunluğu , lig ismi uygunluğu , arama , LoL sihirdar isimleri , Sihirdar"
+msgstr "LoL,League of Legends,Isimler,Dönüştürücü,Kontrol Edici,LoL İnaktif,Lol isim kontrol edici,league isim kontrol edici,league of legends isim kontrol edici,uygun sihirdar isimleri,league uygun isimler,arama,LoL sihirdar ismi,Sihirdar"
 
 msgid "Frequently Asked Questions about summoner names"
 msgstr "Kullanıcı isimleri hakkında sıkça sorulan sorular"
@@ -153,10 +153,10 @@ msgid "Why can't I take a name on a new account?"
 msgstr "Yeni hesapta neden isim alamıyorum ?"
 
 msgid "If a name is already taken by an account you can only obtain it via a name change. These names are shown with a green background. If a name isn't taken by a current user you can take it on a brand new account. These names are shown with a blue background."
-msgstr "Eğer isim zaten bir hesapta alındıysa sadece isim değiştirmekle alabilirsin , bu isimlerin arkası yeşil olarak gösterilir. Eğer isim isim kullanıcı tarafından alınmadıysa yeni bir hesapta alabilirsin. Bu isimlerin arkası mavi olarak gösterilir."
+msgstr "Eğer isim zaten bir hesapta alındıysa başka bir isim almak zorundasın. Bu isimlerin arkası yeşil olarak gösterilir. Eğer isim isim kullanıcı tarafından alınmadıysa yeni bir hesapta alabilirsin. Bu isimler mavi ile gösterilir."
 
 msgid "What if the account is banned?"
-msgstr "Hesap banlıysa ne olur ?"
+msgstr "Hesap engellenmiş (banlanmış) ise ne olur ?"
 
 msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailible indefinitely unless Riot changes their policy on banned accounts."
 msgstr "Eğer hesap banlıysa yeşil gözükecektir , Riot banlı hesaplarla alakalı politikasını değiştirmediği sürece alınamaz."
