@@ -77,4 +77,4 @@ Contributors will be listed here and on the website if you wish. A link to socia
   * Romanian - [AngelJimi](https://www.youtube.com/channel/UC6Qfp0zLBK03eYPnXRL2Gug)
   * Dutch - Stefan Schrauwen
   * Russian - [sadloveii](https://www.reddit.com/user/sadloveii)
-  * Danish - Kristoffer Kaleta
+  * Danish - Anonymous
