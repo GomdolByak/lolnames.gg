@@ -14,7 +14,7 @@ Click the link to the text file with the translations
 
 | ISO 639-1 Code | Language Name | Translated |
 | :-----: | :-----: | :-----: |
-| da | [Danish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/da/LC_MESSAGES/django.po) | ➖ 52.48% |
+| da | [Danish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/da/LC_MESSAGES/django.po) | ➖ 73.76% |
 | de | [German](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/de/LC_MESSAGES/django.po) | ✔ 100.00% |
 | es | [Spanish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/es/LC_MESSAGES/django.po) | ➖ 81.56% |
 | et | [Estonian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/et/LC_MESSAGES/django.po) | ➖ 81.56% |
@@ -32,11 +32,11 @@ Click the link to the text file with the translations
 | pt | [Portuguese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/pt/LC_MESSAGES/django.po) | ➖ 99.29% |
 | ro | [Romanian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ro/LC_MESSAGES/django.po) | ➖ 97.16% |
 | ru | [Russian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ru/LC_MESSAGES/django.po) | ✔ 100.00% |
-| sr | [Serbian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sr/LC_MESSAGES/django.po) | ✔ 100.00% |
+| sr | [Serbian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sr/LC_MESSAGES/django.po) | ➖ 98.58% |
 | sv | [Swedish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sv/LC_MESSAGES/django.po) | ➖ 81.56% |
 | th | [Thai](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/th/LC_MESSAGES/django.po) | ❌ 0.00% |
 | tl | [Tagalog](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/tl/LC_MESSAGES/django.po) | ❌ 0.00% |
-| tr | [Turkish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/tr/LC_MESSAGES/django.po) | ➖ 80.85% |
+| tr | [Turkish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/tr/LC_MESSAGES/django.po) | ➖ 90.78% |
 | uk | [Ukrainian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/uk/LC_MESSAGES/django.po) | ❌ 0.00% |
 | vi | [Vietnamese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/vi/LC_MESSAGES/django.po) | ❌ 0.00% |
 | zh-hans | [Simplified Chinese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/zh-hans/LC_MESSAGES/django.po) | ❌ 0.00% |
@@ -71,9 +71,10 @@ Contributors will be listed here and on the website if you wish. A link to socia
   * Estonian - [shaw™](https://twitter.com/ShawiAE)
   * Serbian - [Novke](https://discord.gg/pqQEX6)
   * Swedish - [RS_Froggit](https://www.reddit.com/user/RS_Froggit)
-  * Turkish - Beta
+  * Turkish - Beta, Hakkı Murat
   * Polish - [adik1237272](https://www.reddit.com/user/adik1237272)
   * German - [fvcxy](https://www.reddit.com/user/fvcxy)
   * Romanian - [AngelJimi](https://www.youtube.com/channel/UC6Qfp0zLBK03eYPnXRL2Gug)
   * Dutch - Stefan Schrauwen
   * Russian - [sadloveii](https://www.reddit.com/user/sadloveii)
+  * Danish - Kristoffer Kaleta
