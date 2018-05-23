@@ -9,28 +9,28 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Summoner name..."
-msgstr ""
+msgstr "Summoner navn..."
 
 msgid "Invalid name"
-msgstr ""
+msgstr "Forkert navn"
 
 msgid "Invalid characters: "
-msgstr ""
+msgstr "Forkert anvendelse af tegn"
 
 msgid "Maximum 16 characters"
-msgstr ""
+msgstr "Maksimalt 16 tegn"
 
 msgid "Must be two or more characters"
-msgstr ""
+msgstr "Skal være mindst to eller flere tegn"
 
 msgid "Names can't contain 'riot'"
-msgstr ""
+msgstr "Navnet kan ikke indeholde 'riot'"
 
 msgid "This is a problem with Riot's servers"
-msgstr ""
+msgstr "Der er et problem med Riots servere"
 
 msgid "New Account"
-msgstr "LoL Navn efter Konto ID"
+msgstr "Ny konto"
 
 msgid "Name Change"
 msgstr "Kun navneændring"
@@ -60,31 +60,31 @@ msgid "Summoner Level High Scores"
 msgstr ""
 
 msgid "All Upcoming Names"
-msgstr ""
+msgstr "Kommende frie navne"
 
 msgid "Recently Available Names"
-msgstr ""
+msgstr "Navne der fornyligt er blevet frie"
 
 msgid "Two Letter Names"
-msgstr "LoL Navne"
+msgstr "Navne med to bogstaver"
 
 msgid "Three Letter Names"
-msgstr ""
+msgstr "Navne med tre bogstaver"
 
 msgid "Four Letter Names"
-msgstr "LoL Navne"
+msgstr "Navne med fire bogstaver"
 
 msgid "All Available Names"
-msgstr ""
+msgstr " Mulige åbne navne"
 
 msgid "Lists"
 msgstr "Lister"
 
 msgid "No active game for %(name)s"
-msgstr ""
+msgstr "Ikke noget aktivt game for %(name)s"
 
 msgid "No summoner with name \"%(name)s\" on %(region)s."
-msgstr ""
+msgstr "Ikke nogen summoner med navnet  \"%(name)s\" på %(region)s "
 
 msgid "LoL Names"
 msgstr "LoL Navne"
@@ -93,13 +93,13 @@ msgid "Checker"
 msgstr "Checker"
 
 msgid "Highscores"
-msgstr ""
+msgstr "Highscores"
 
 msgid "Tools"
-msgstr ""
+msgstr "Værktøj"
 
 msgid "Lookup Match Details"
-msgstr ""
+msgstr "Find match detaljer"
 
 msgid "Track Name Changes"
 msgstr ""
@@ -111,13 +111,13 @@ msgid "Search by Account ID"
 msgstr "Søg efter konto-id"
 
 msgid "Statistics"
-msgstr ""
+msgstr "Statisikker"
 
 msgid "Summoner Levels"
-msgstr ""
+msgstr "Summoner Levels"
 
 msgid "Summoner Icons"
-msgstr ""
+msgstr "Summoner ikoner"
 
 msgid "FAQ"
 msgstr "Ofte stillede spørgsmål"
@@ -177,7 +177,7 @@ msgid "When exactly will the name become available?"
 msgstr "Hvornår bliver navnet nøjagtigt?"
 
 msgid "Normally names are cleaned up at midnight UTC. However, in some cases I've found it has taken 48 hours. Check every few hours on the day it is listed."
-msgstr ""
+msgstr "Ofte bliver navne fjerned omkring midnat UTC. Men der kan være tilfælde hvor der går op til 48 timer, tjek med et par timers mellemrum på dagen om det er fjernet"
 
 msgid "Can you remove a name from a list for me?"
 msgstr "Kan du fjerne et navn fra en liste til mig?"
@@ -195,13 +195,13 @@ msgid "Where should I report a bug?"
 msgstr "Hvor skal jeg rapportere en fejl?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
-msgstr ""
+msgstr "Hvorfor er ingen champion navne før Xayah og Rakan tilladt?"
 
 msgid "Riot has said they will no longer reserve names of new champions."
-msgstr ""
+msgstr "Riot har sagt de ikke længere reserverer navnene af nye champions."
 
 msgid "However they banned the accounts of the old names so they will never expire."
-msgstr ""
+msgstr "De bandlyste de account med de gamle navne så de aldrig udløber."
 
 msgid "Disclaimer"
 msgstr "Ansvarsfraskrivelse"
@@ -306,10 +306,10 @@ msgid "Updates will take a maximum of 10 minutes to appear. Check out the <a hre
 msgstr ""
 
 msgid "Summoner Name"
-msgstr ""
+msgstr "Summoner navn"
 
 msgid "Region"
-msgstr ""
+msgstr "Region"
 
 msgid "Recheck"
 msgstr "Kontrollér igen"
@@ -339,19 +339,19 @@ msgid "<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> La
 msgstr ""
 
 msgid "Current level:"
-msgstr ""
+msgstr "Nuværende level"
 
 msgid "Add to Calendar"
-msgstr ""
+msgstr "Tilføj til kalender"
 
 msgid "<h4 class=\"text-center\">%(name)s is probably available!</h4>"
-msgstr ""
+msgstr "<h4 class=\"text-center\">%(name)s er sikkert frit!</h4>"
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
-msgstr ""
+msgstr "Hvis det her navn ikke kan blive taget er accounten højst sandsynligt blevet banned og navnet vil ikke udløbe"
 
 msgid "Add Special Characters"
-msgstr ""
+msgstr "Tilføj Specielle Tegn"
 
 msgid "<h4 class=\"text-center\">%(summoner_name)s is available!</h4> This name currently isn't used.<br> It is available for new accounts."
 msgstr "<h4 class=\"text-center\">%(summoner_name)s er tilgængelig!</h4>Dette navn er i øjeblikket ikke brugt.<br>Den er tilgængelig til nye konti."
