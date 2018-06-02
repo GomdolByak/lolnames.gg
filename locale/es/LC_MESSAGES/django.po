@@ -84,7 +84,7 @@ msgid "No active game for %(name)s"
 msgstr "%(name)s no está actualmente en partida"
 
 msgid "No summoner with name \"%(name)s\" on %(region)s."
-msgstr "No hay invocados con el nombre \"%(name)s\ en %(región)s"
+msgstr "No hay invocados con el nombre \"%(name)s\" en %(región)s"
 
 msgid "LoL Names"
 msgstr "Nombres de LoL"
