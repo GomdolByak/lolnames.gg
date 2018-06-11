@@ -39,7 +39,7 @@ msgid "Generator"
 msgstr "Generador"
 
 msgid "None available for %(name)s, out of %(num_variants)s variants."
-msgstr "Ninguno disponible para %(name)s, de %(num_variants) variantes."
+msgstr "Ninguno disponible para %(name)s, de %(num_variants)s variantes."
 
 msgid "Summoner name not in use"
 msgstr "Nombre de invocador fuera de uso"

@@ -39,7 +39,7 @@ msgid "Generator"
 msgstr "Generator"
 
 msgid "None available for %(name)s, out of %(num_variants)s variants."
-msgstr "Keine verfügbaren Varianten für%(name) aus %(num_variants)s "
+msgstr "Keine verfügbaren Varianten für %(name)s aus %(num_variants)s "
 
 msgid "Summoner name not in use"
 msgstr "Beschwörernamen nicht in Gebrauch"
@@ -81,7 +81,7 @@ msgid "Lists"
 msgstr "Listen"
 
 msgid "No active game for %(name)s"
-msgstr "Keine Spiele für %(name) gefunden"
+msgstr "Keine Spiele für %(name)s gefunden"
 
 msgid "No summoner with name \"%(name)s\" on %(region)s."
 msgstr "Kein Beschwörer mit dem Namen: \"%(name)s\" in %(region)s."
@@ -294,7 +294,7 @@ msgid "highest level league of legends,lol max level in game,high score,lol high
 msgstr "höchste level league of legends, lol maximales Level im Spiel, Rekord, lol höchstes level, LoL, League of Legends, Namen, Top Beschwörernamen, höchstes Beschwörerlevel, Beschwörerlevel,Suche, LoL Beschwörernamen,Bestenliste,Beschwörer,Beschwörerlevel Bestenliste"
 
 msgid "See the top %(number)s summoner levels in the world!"
-msgstr "Das höchste Beschwörerlevel auf der Welt"
+msgstr "Seht euch die %(number)s besten Beschwörer-Levels der Welt an!"
 
 msgid "The top summoner level in League of Legends!"
 msgstr "Das höchste Beschwörerlevel in League of Legends"
