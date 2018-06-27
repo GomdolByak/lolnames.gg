@@ -36,7 +36,7 @@ Click the link to the text file with the translations
 | sv | [Swedish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sv/LC_MESSAGES/django.po) | ➖ 81.56% |
 | th | [Thai](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/th/LC_MESSAGES/django.po) | ❌ 0.00% |
 | tl | [Tagalog](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/tl/LC_MESSAGES/django.po) | ❌ 0.00% |
-| tr | [Turkish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/tr/LC_MESSAGES/django.po) | ➖ 90.78% |
+| tr | [Turkish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/tr/LC_MESSAGES/django.po) | ✔ 100.00% |
 | uk | [Ukrainian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/uk/LC_MESSAGES/django.po) | ❌ 0.00% |
 | vi | [Vietnamese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/vi/LC_MESSAGES/django.po) | ❌ 0.00% |
 | zh-hans | [Simplified Chinese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/zh-hans/LC_MESSAGES/django.po) | ❌ 0.00% |
@@ -71,7 +71,7 @@ Contributors will be listed here and on the website if you wish. A link to socia
   * Estonian - [shaw™](https://twitter.com/ShawiAE)
   * Serbian - [Novke](https://discord.gg/pqQEX6)
   * Swedish - [RS_Froggit](https://www.reddit.com/user/RS_Froggit)
-  * Turkish - Beta, Hakkı Murat
+  * Turkish - Beta, Hakkı Murat, Ahmet Savmaz
   * Polish - [adik1237272](https://www.reddit.com/user/adik1237272)
   * German - [fvcxy](https://www.reddit.com/user/fvcxy)
   * Romanian - [AngelJimi](https://www.youtube.com/channel/UC6Qfp0zLBK03eYPnXRL2Gug)
